@@ -18,6 +18,7 @@ img{
     font-size: larger;
     background-color: #329c9c;
     border-color: #227a4d ;
+    font-family: cursive;
 }
 .resaltado{
     font-family: #2e6662;
@@ -26,4 +27,5 @@ img{
     background-color: #329c9c;
     border-color: #13645f;
     border-radius: 15px;
+    font-family: cursive;
 }
